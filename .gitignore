@@ -1,0 +1,5 @@
+.env
+env/
+*.pyc
+planificacion/__init__.py
+recoleccion/__init__.py
